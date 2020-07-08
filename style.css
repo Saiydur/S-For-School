@@ -1,0 +1,143 @@
+/* Raw Sector Start */
+.html{
+    font-family: 'Poppins',sans-serif;
+}
+section{
+    margin-bottom: 100px;
+}
+.container{
+    margin-bottom: 100px;
+}
+hr{
+    margin-bottom: 80px;
+    background-color: goldenrod;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+.online-course-header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    color: #585859;
+}
+/* Raw Sector End */
+/* Header Sector Start */
+.top-site{
+    background-color: #F0FFF0;
+    padding-bottom: 20px;
+}
+.logo-of-school{
+    width: 198.07px;
+    height: 59px;
+    top: 30px;
+}
+.btn{
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    font-weight: 500;
+}
+.moto{
+    font-weight: bold;
+}
+.qus{
+    color: goldenrod;
+}
+.moto-overridden{
+    color: #21B573;
+}
+.moto-details{
+    font-size: 16px;
+    line-height: 36px;
+}
+.get-start-button{
+    padding: 12px 36px;
+    border-radius: 33px;
+    font-weight: 500;
+    border: none;
+    background-color: #21B573
+}
+.get-start-button:hover{
+    background-color:goldenrod;
+    color: white;
+}
+/* Header Sector End */
+/* Middle Sector Start */
+.icons{
+    margin-left: 36%;
+    margin-top: 10%;
+}
+#icon1{
+    width: 66px;
+    height: 85px;
+}
+#icon2{
+    width: 80px;
+    height: 83px;
+}
+#icon3{
+    width: 75px;
+    height: 80px;
+   
+}
+#icon4{
+    width: 68px;
+    height: 76px;    
+}
+.card{
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.card:hover{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.card-title{
+    font-weight: 500;
+    font-size: 24px;
+    color: #413960;
+}
+.card-text{
+    font-weight: normal;
+    font-size: 16px;
+    color: #585859;
+       
+}
+/* Middle Sector End */
+/* Bottom-Top Sector Start */
+.card-footer{
+    border: none;
+}
+.card-footer img{
+    height: 20px;
+    width: 20px;
+}
+/* Testimonial Section */
+.testi{
+    margin-top: 10%;
+    vertical-align: middle;
+}
+/* Bottom Site or Footer */
+.jumbotron{
+    background-color: #282531;
+}
+.jumbotron-fluid {
+    margin-bottom: 0px;
+    padding-bottom: 0;
+}
+.bottom-site{
+    font-weight: 600;
+}
+.list-group-item{
+    color: white;
+    border: none;
+    margin-bottom: 2px;
+    background-color: inherit;
+}
+.bottom-site a{
+    text-decoration: none;
+    color: white;
+}
